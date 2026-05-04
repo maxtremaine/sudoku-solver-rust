@@ -1,4 +1,4 @@
-# sudoku_solver_rs
+# sudoku-solver-rust
 
 Solves sudoku so I don't have to, in Rust!
 
